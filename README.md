@@ -1,6 +1,7 @@
 # Table of Contents
 |Q.no|Question|Link|
 | :---: |:---:|:---:|
+|1.|Create an output saying Hello world|Click here|
 
 
 # Basic Java Questions
