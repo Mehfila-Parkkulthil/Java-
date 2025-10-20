@@ -2,16 +2,12 @@
 |Q.no|Question|Link|
 | :---: |:---:|:---:|
 |1.|Create an output saying Hello world|[Click here](https://github.com/Mehfila-Parkkulthil/Java-/blob/main/Question1.java)|
-|2.|Show the following pattern
-
- Reverse right half pyramid using  print statement.
+|2.|Show the following pattern- Reverse right half pyramid using  print statement.
  ******
  ****
  ***
  **
- *
- 
- ||
+ * |Click here]()|
 |3.|||
 |4.|||
 
