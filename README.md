@@ -1,7 +1,7 @@
 # Table of Contents
 |Q.no|Question|Link|
 | :---: |:---:|:---:|
-|1.|Create an output saying Hello world|Click here (https://github.com/Mehfila-Parkkulthil/Java-/blob/main/Question1.java)|
+|1.|Create an output saying Hello world|(https://github.com/Mehfila-Parkkulthil/Java-/blob/main/Question1.java)Click here|
 
 
 # Basic Java Questions
