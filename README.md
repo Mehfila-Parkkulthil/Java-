@@ -1,7 +1,7 @@
 
-### Basic Java Questions
+# Basic Java Questions
 
-# What is Java and why is it popular?
+### What is Java and why is it popular?
 
 - It is a high -level , object oriented programming language developed by Sun Microsystems (now owned by Oracle Corporation).It was first released in 1995 and is designed to be portable , secure and easy to use.
 - Java is popular because Platform Independence
