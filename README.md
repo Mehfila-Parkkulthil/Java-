@@ -1,3 +1,6 @@
+# Table of Contents
+|---|---|---|
+|Q.no|Question|Link|
 
 # Basic Java Questions
 
