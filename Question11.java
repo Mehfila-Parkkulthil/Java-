@@ -2,7 +2,7 @@
 // Create a program to convert temperature from Fahrenheit to Celsius 
 
 import java.util.*;
-public class Question10 {
+public class Question11 {
     public static void main(String[] args) {
         System.out.println("Hi");
         Scanner scanner=new Scanner(System.in);
