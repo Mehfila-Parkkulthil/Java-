@@ -1,7 +1,15 @@
+# Table of Contents
+|Q.no|Question|Link|
+| :---: |:---:|:---:|
+|1.|Create an output saying Hello world|[Click here](https://github.com/Mehfila-Parkkulthil/Java-/blob/main/Question1.java)|
+|2.|Show the following pattern- Reverse right half pyramid using  print statement.|[Click here](https://github.com/Mehfila-Parkkulthil/Java-/blob/main/Question2.java)|
+|3.|||
+|4.|||
 
-## Basic Java Questions
 
-1. What is Java and why is it popular?
+# Basic Java Questions
+
+### What is Java and why is it popular?
 
 - It is a high -level , object oriented programming language developed by Sun Microsystems (now owned by Oracle Corporation).It was first released in 1995 and is designed to be portable , secure and easy to use.
 - Java is popular because Platform Independence
