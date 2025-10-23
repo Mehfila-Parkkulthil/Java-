@@ -1,7 +1,7 @@
 // Question 6
 // Create a program that takes two numbers and shows result of all arithmetic operations
 
-import java.util.*;
+import java.util.Scanner;
 public class Question6 {
     public static void main (String[] args){
         System.out.println("Lets calculate all operations of two numbers a and b");

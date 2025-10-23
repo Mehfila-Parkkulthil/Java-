@@ -2,6 +2,7 @@
 // Create a program to check if a number is positive or negative
 
 import java.util.*;
+import java.util.Scanner;
 public class Question12 {
     public static void main (String[] args){
         System.out.println("Hello World");
