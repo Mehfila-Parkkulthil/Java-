@@ -16,6 +16,8 @@ public class Question3 {
         // Printing the input name
         System.out.println("Hi, " + name + ". How are you beautiful?" );
 
+
+        scanner.close();
     }
     
 }

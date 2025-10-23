@@ -26,6 +26,8 @@ public class Question4 {
         System.out.println("Sum :" + c );
         System.out.println("Difference:" + d);
 
+        scanner.close();
+
     }
 
     

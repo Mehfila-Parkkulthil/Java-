@@ -13,6 +13,7 @@ public class Question11 {
         // Formula to convert Celsius to Fahrenheit
         double celsius = (Fahrenheit - 32) * 5.0f/9.0f;
         System.out.println("Temperature in celsius: " + Fahrenheit);
+        scanner.close();
         
     }
 }

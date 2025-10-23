@@ -25,6 +25,8 @@ public class Question6 {
          System.out.println("Product:"+ product);
           System.out.println("Remainder :"+ reminder);
            System.out.println("Quotient:" + quotient); 
+
+           scanner.close();
     }
     
 }

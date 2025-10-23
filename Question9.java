@@ -23,6 +23,8 @@ public class Question9 {
         System.out.println("At Rate of Interest: " + R + "%");
         System.out.println("Over Time Period: " + T + " years");
         System.out.println("The Simple Interest is: " + SI);
+
+        scanner.close();
     }
     
 }
