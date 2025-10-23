@@ -1,5 +1,6 @@
 // Question2
 // Show the following pattern
+
 /*
  Reverse right half pyramid using  print statement.
  ******
