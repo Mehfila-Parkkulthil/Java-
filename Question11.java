@@ -1,7 +1,7 @@
 //Question11
 // Create a program to convert temperature from Fahrenheit to Celsius 
 
-import java.util.*;
+import java.util.Scanner;
 public class Question11 {
     public static void main(String[] args) {
         System.out.println("Hi");
@@ -12,7 +12,7 @@ public class Question11 {
         
         // Formula to convert Celsius to Fahrenheit
         double celsius = (Fahrenheit - 32) * 5.0f/9.0f;
-        System.out.println("Temperature in celsius: " + Fahrenheit);
+        System.out.println("Temperature in celsius: " + celsius);
         scanner.close();
         
     }
