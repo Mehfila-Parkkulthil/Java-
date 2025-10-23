@@ -5,7 +5,7 @@ import java.util.*;
 public class Question11 {
     public static void main(String[] args) {
         System.out.println("Hi");
-        Scanner scanner=new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter the temperature in Fahrenheit:");
         double Fahrenheit = scanner.nextDouble();
