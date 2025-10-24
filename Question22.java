@@ -1,4 +1,12 @@
 //Question 22
+//Create program to check grade
+/*
+ A - above 90%
+ B - above 75%
+ C - above 60%
+ D - above 30%
+ E - below 30%
+ */
 
 import java.util.Scanner;
 public class Question22{
@@ -19,5 +27,7 @@ public class Question22{
         }else{
             System.out.println("E Grade . Its okay,try next time");
         }
+
+        scanner.close();
     }
 }
