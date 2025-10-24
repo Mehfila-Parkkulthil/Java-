@@ -26,5 +26,7 @@ public class Question21{
         }else{
             System.out.println("The two roots are" + root1 + "and" + root2);
         }
+
+        scanner.close();
     }
 }
