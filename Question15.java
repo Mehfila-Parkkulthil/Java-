@@ -45,9 +45,12 @@ public class Question15{
                 System.out.println("Sorry , thats wrong . \n  The correct answer is  " + answers[i]);
             }
         }
-
+        
+         System.out.println("-----------------------------------");
         System.out.println("Congratulations!!!. You scored " + score + " out of " + questions.length);
-
+        System.out.println("-----------------------------------");
+        
+       
         scanner.close();
     }
 }

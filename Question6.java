@@ -22,9 +22,9 @@ public class Question6 {
 
         System.out.println("Sum:"+ sum);
         System.out.println("Difference: " + difference);
-         System.out.println("Product:"+ product);
-          System.out.println("Remainder :"+ reminder);
-           System.out.println("Quotient:" + quotient); 
+        System.out.println("Product:"+ product);
+        System.out.println("Remainder :"+ reminder);
+        System.out.println("Quotient:" + quotient); 
 
            scanner.close();
     }
