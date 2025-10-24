@@ -11,7 +11,7 @@ public class Question11 {
         double Fahrenheit = scanner.nextDouble();
         
         // Formula to convert Celsius to Fahrenheit
-        double celsius = (Fahrenheit - 32) * 5.0f/9.0f;
+        double celsius = (Fahrenheit - 32) * 5.0/9.0;
         System.out.println("Temperature in celsius: " + celsius);
         scanner.close();
         
