@@ -19,5 +19,7 @@ public class Question19{
        } else {
            System.out.println("c is the greatest number.");
        }
+
+       scanner.close();
 }
 }

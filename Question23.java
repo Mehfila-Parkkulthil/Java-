@@ -23,5 +23,7 @@ public class Question23{
         }else{
             System.out.println("CHILD");
         }
+
+        scanner.close();
     }
 }
