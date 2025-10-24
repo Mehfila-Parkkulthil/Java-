@@ -12,7 +12,10 @@ public class Question12 {
     
         if(a>=0){
             System.out.println("The number is positive");
-        } else {
+        } else if(a==0){
+            System.out.println("The number is equal to zero");
+        }
+        else {
             System.out.println("The number is negative");
         }
         scanner.close();
