@@ -1,5 +1,5 @@
 // Question 27
-// Create a program to calculate OR operator
+// Create a program to calculate Bitwise OR operator
 
 import java.util.Scanner;
  public class Question27 {

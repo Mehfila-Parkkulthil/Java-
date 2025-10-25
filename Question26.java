@@ -1,5 +1,5 @@
 // Question 26
-//Create a program to calculate AND operator
+//Create a program to calculate Bitwise AND operator
 
 import java.util.Scanner;
  public class Question26 {

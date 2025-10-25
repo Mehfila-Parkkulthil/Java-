@@ -1,5 +1,5 @@
 // Question 28
-// Create a program using XOR operator
+// Create a program using  Bitwise XOR operator
 
 import java.util.Scanner;
  public class Question28 {
