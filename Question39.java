@@ -10,7 +10,7 @@ public class Question39{
         System.out.println("Enter a number");
         int a = scanner.nextInt();
 
-        if(a%)
+
 
     }
 }

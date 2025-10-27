@@ -10,19 +10,15 @@ public class Question37{
         int first=scanner.nextInt();
         System.out.println("Enter second number");
         int second=scanner.nextInt();
-        int ans = leastCommonMultiple( first, second);
-        System.out.println("LCM " + ans);
+        // int ans = leastCommonMultiple( first, second);
+        // System.out.println("LCM " + ans);
+
+        scanner.close();
     }
 
 
-    public static int leastCommonMultiple(int first,int second){
-        int i =1;
-        while(i<=second){
-            i==
-        }
-
-      
+//     public static int leastCommonMultiple(int first,int second){
 
 
-    }
+//     }
 }
