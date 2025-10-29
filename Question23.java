@@ -1,5 +1,5 @@
 //Question 23
-//Create a program that categorise person nto different age groups 
+//Create a program that categorise person into different age groups 
 /*
  Child - below 13
  Teen - below 20

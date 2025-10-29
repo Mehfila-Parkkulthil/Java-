@@ -1,10 +1,10 @@
 // Question 46
-// Create program to form half pyramid
+// Create program to form Left-half pyramid
 
 import java.util.Scanner;
 public class Question46{
     public static void main(String[] args){
-        System.out.println("Lets draw half pyramid");
+        System.out.println("Lets draw left-half pyramid");
         System.out.println();
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter number of rows:");
