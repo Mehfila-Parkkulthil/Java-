@@ -10,11 +10,11 @@ public class Question48{
         System.out.println("Enter a number:");
 
         int n=scanner.nextInt();
-        
-        for(int i=1;i<=n;i++){
-            
-        }
 
+    
+    
+
+      
         scanner.close();
     }
 }
