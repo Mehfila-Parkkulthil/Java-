@@ -19,7 +19,7 @@ public class Question48{
                     System.out.print(" ");
                 
                 // stars
-                for(int y=i;y<=n;y++){
+                for(int y=1;y<=1;y++){
                     System.out.print("*");
                 }
 
