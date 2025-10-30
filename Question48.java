@@ -1,4 +1,4 @@
-//Question 48
+//Question 48 - chang3
 //Create a program for Inverted Right half pyramid
 
 
@@ -11,10 +11,26 @@ public class Question48{
 
         int n=scanner.nextInt();
 
-    
+        System.out.println();
+
+            for(int i=1;i<=n;i++){
+                //spaces
+                for(int j=1;j<i;j++){
+                    System.out.print(" ");
+                
+                // stars
+                for(int y=i;y<=n;y++){
+                    System.out.print("*");
+                }
+
+                System.out.println();
+            }
+      
+       }
+          scanner.close();}}
+       
     
 
-      
-        scanner.close();
-    }
-}
+        
+       
+    
