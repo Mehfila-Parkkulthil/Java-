@@ -13,20 +13,9 @@ public class Question48{
 
         System.out.println();
 
-            for(int i=1;i<=n;i++){
-                //spaces
-                for(int j=1;j<i;j++){
-                    System.out.print(" ");
-                
-                // stars
-                for(int y=1;y<=1;y++){
-                    System.out.print("*");
-                }
-
+          
                 System.out.println();
-            }
-      
-       }
+            
           scanner.close();}}
        
     
