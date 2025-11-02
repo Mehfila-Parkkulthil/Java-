@@ -12,7 +12,8 @@ public class Question48{
         int n=scanner.nextInt();
 
         System.out.println();
-
+            
+        
           
                 System.out.println();
             
