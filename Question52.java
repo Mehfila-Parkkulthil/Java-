@@ -13,17 +13,5 @@ public class Question52{
 
     public static void factorial(int a){
      
-        if(a<2){
-            return 1;
-        }
-         
-        long fact =1;
-        int i=2;
-        while (i<=a) {
-            fact =fact*i;
-            i++;  
-        }
-
-
     }
 }

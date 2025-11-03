@@ -10,15 +10,8 @@ public class Question37{
         int first=scanner.nextInt();
         System.out.println("Enter second number");
         int second=scanner.nextInt();
-        // int ans = leastCommonMultiple( first, second);
-        // System.out.println("LCM " + ans);
 
         scanner.close();
     }
 
-
-//     public static int leastCommonMultiple(int first,int second){
-
-
-//     }
 }

@@ -15,10 +15,4 @@ public class Question50{
     
     }
 
-    public static void Pyramid(int n){
-        int i =0;
-        while(i<n){
-            
-        }
-    }
 }
