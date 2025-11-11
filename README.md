@@ -1,4 +1,5 @@
-# Table of Contents
+# Java
+## Table of Contents
 |Q.no|Question|Link|
 | :--- |:---|:---|
 | 1 | Create an output saying Hello world|[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question1.java) | 
@@ -103,7 +104,7 @@
 | 100 | |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question100.java) |
 
 
-# Basic Java Questions
+## Basic Java Questions
 
 ### What is Java and why is it popular?
 
