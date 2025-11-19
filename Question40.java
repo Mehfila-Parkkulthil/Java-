@@ -4,6 +4,9 @@
 import java.util.Scanner;
 public class Question40{
   public static void main(String[]args){
-    println("Lets reverse the digits");
+   System.out.println("Lets reverse the digits");
+    Scanner sc =new Scanner(System.in);
+    int number =sc.nextInt();
+    
     
   }
